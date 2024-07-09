@@ -8,6 +8,8 @@ Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Comput
 - Statistical Analysis
 
 # Code Collections
+This section is divided into several subsections. Each subsection contains link to list of work products or programs that are well tested and verified.
+
 ## Skills Section 
 ### Statistical Skills
 - [Visualization (Charting Techniques)](#)
