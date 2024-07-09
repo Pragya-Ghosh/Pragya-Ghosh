@@ -8,4 +8,4 @@ Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Comput
 - Statistical Analysis
 
 # Projects
-- Analyse the Effectiveness DOTS Strategy for TB
+- Analyse the Effectiveness of the DOTS Strategy for TB
