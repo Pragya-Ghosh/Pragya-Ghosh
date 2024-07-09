@@ -12,7 +12,7 @@ Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Comput
 This section is divided into several subsections. Each subsection contains link to list of work products or programs that are well tested and verified.
 
 ## Skills Section 
-Each of the following subsections provides a list of programs that fall under its category.
+Each of the following links provides a list of programs that fall under their respective subsection.
 
 ### Statistical Skills
 - [Visualization (Charting Techniques)](#)
