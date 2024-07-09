@@ -7,5 +7,28 @@ Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Comput
 - Mathematical Modelling
 - Statistical Analysis
 
-# Projects
-- Analyse the Effectiveness of the DOTS Strategy for TB
+# Code Collections
+## Skills Section 
+### Statistical Skills
+    - Visualization (Charting Techniques)
+    - Inferential (Probability Distributions, Hypothesis testing, ANOVA)
+    - Analytical (Trials, Survival analysis, Time series)
+    - Prediction methods (Linear, logistic and other regression methods)
+    
+### Modeling Skills
+    - Outbreak Modeling
+    - Risk Modeling
+    - Machine Learning (other than statistical regession)
+    
+### Image Processing Skills
+    - Basic
+    - Advanced
+    
+### Other IT Skills
+    - Data Collection
+    - Data Modeling
+    - Data Cleaning
+
+
+## Organized Case Studies
+    - DOTs application on TB Patients 
