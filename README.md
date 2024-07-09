@@ -10,8 +10,8 @@ Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Comput
 # Code Collections
 ## Skills Section 
 ### Statistical Skills
-- Visualization (Charting Techniques)
-- Inferential (Probability Distributions, Hypothesis testing, ANOVA)
+- [Visualization (Charting Techniques)](#)
+- [Inferential (Probability Distributions, Hypothesis testing, ANOVA)](#) 
 - Analytical (Trials, Survival analysis, Time series)
 - Prediction methods (Linear, logistic and other regression methods)
     
