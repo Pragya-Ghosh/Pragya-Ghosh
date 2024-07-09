@@ -10,25 +10,25 @@ Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Comput
 # Code Collections
 ## Skills Section 
 ### Statistical Skills
-    - Visualization (Charting Techniques)
-    - Inferential (Probability Distributions, Hypothesis testing, ANOVA)
-    - Analytical (Trials, Survival analysis, Time series)
-    - Prediction methods (Linear, logistic and other regression methods)
+- Visualization (Charting Techniques)
+- Inferential (Probability Distributions, Hypothesis testing, ANOVA)
+- Analytical (Trials, Survival analysis, Time series)
+- Prediction methods (Linear, logistic and other regression methods)
     
 ### Modeling Skills
-    - Outbreak Modeling
-    - Risk Modeling
-    - Machine Learning (other than statistical regession)
+- Outbreak Modeling
+- Risk Modeling
+- Machine Learning (other than statistical regession)
     
 ### Image Processing Skills
-    - Basic
-    - Advanced
+- Basic
+- Advanced
     
 ### Other IT Skills
-    - Data Collection
-    - Data Modeling
-    - Data Cleaning
+- Data Collection
+- Data Modeling
+- Data Cleaning
 
 
 ## Organized Case Studies
-    - DOTs application on TB Patients 
+- DOTs application on TB Patients 
