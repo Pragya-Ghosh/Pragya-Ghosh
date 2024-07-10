@@ -15,7 +15,7 @@ This section is divided into several subsections. Each subsection contains link 
 Each of the following links provides a list of programs that fall under their respective subsection.
 
 ### Statistical Skills
-- [Visualization (Charting Techniques)](#)
+- [Visualization (Charting Techniques)](https://github.com/Pragya-Ghosh/Visuals-List)
 - [Inferential (Probability Distributions, Hypothesis testing, ANOVA)](#) 
 - [Analytical (Trials, Survival analysis, Time series)](#)
 - [Prediction methods (Linear, logistic and other regression methods)](#)
