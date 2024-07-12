@@ -3,16 +3,16 @@ https://github.com/Pragya-Ghosh/Pragya-Ghosh/assets/171924276/c3b12e87-4d18-42ed
 # About Me 👋
 Hi! My name is **Pragya Ghosh**, and I'm currently pursuing my B.Tech. in Computer Science Engineering at KIIT. I'm passionate about harnessing the power of data science and AI-- and find data-driven solutions to address some of our most pressing epidemiological challenges today.
 
-# Skills
-- Python and R programming
-- Mathematical Modelling
+# Technical Skills
+- Programming Languages: Java, Python and R
 - Statistical Analysis
+- Mathematical Modelling
 
-# Code Collections
-This section is divided into several subsections. Each subsection contains link to list of work products or programs that are well tested and verified.
+# My Repositories
+Here you will find a curated selection of my projects that highlight my skills and interests. Each section contains links to lists of work products or programs that are well-tested and verified.
 
 ## Skills Section 
-Each of the following links provides a list of programs that fall under their respective subsection.
+Each of the following links will direct you to a list of programs that fall under their respective subsection.
 
 ### Statistical Skills
 - [Visualization (Charting Techniques)](https://github.com/Pragya-Ghosh/Visuals-List)
@@ -36,6 +36,6 @@ Each of the following links provides a list of programs that fall under their re
 
 
 ## Organized Case Studies
-These case-studies contain links to related work products and programs that it pertains to.
+Each case study includes links to the corresponding work products and programs.
 
-- [DOTs application on TB Patients](#) 
+- [TB Turnaround: Evaluating the Impact of DOTS](#) 
